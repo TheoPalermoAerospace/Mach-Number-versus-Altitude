@@ -11,7 +11,7 @@ import sympy as sp
 # Parameters
 v = 315 # aircraft speed in meters per seconds
 R = 287.085 # gas constant for air in J/kg K
-gamma_air = 1.4
+gamma_air = 1.4 # Heat capacity ratio
 
 # Troposphere and stratosphere
 h = 0 # declaring altitude variable
